@@ -1,2 +1,2 @@
 # AstronomyFitsCompanion
-Astronomy FITS Companion: A user-friendly toolkit designed to help amateur astronomers enhance and prepare their FITS files for archival quality. Simplify your data processing and make your observations archive-ready, with tools that guide you through key steps in handling astronomical data.
+Astronomy FITS Companion: A toolkit to help amateur astronomers make their FITS files ready for Virtual Observatory archives. This collection of tools fixes common issues, converts data formats, and ensures your data meets VO standards, making it easy to share with the astronomy community.
